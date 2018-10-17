@@ -1,4 +1,3 @@
-import string
 
 str1=raw_input("enter string:")
 str1=str1.upper()
@@ -10,4 +9,4 @@ for i in range (len(str1)-1):
     else:
         continue
 
-print str2
+print(str2)
